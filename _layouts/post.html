@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<section class="eventdetail">
+  <h2 class="event--title">{{ page.title }}</h2>
+  <h3 class="event--date">{{ page.date | date: "%-d %B %Y" }}</h3>
+  <h4 class="event--artist">{{ page.artist }}</h4>
+
+  <figure class="event--heroimage">
+    <img src="{{ site.baseurl }}/assets/images/{{ page.heroimage }}" alt="Image by {{ page.imageattr }}" />
+    <figcaption class="event--heroimage-attr">Image copyright – {{ page.imageattr }}</figcaption>
+  </figure>
+</section>
+
+<article class="content">
+    {{ content }}
+</article>

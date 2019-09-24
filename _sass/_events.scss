@@ -1,0 +1,86 @@
+/* Event list */
+.events-list {
+  display: flex;
+  margin: 0 0 50px;
+  @include mq(narrow) {
+    display: block;
+  }
+}
+.events-list-event {
+  @include transition();
+  flex: 50%;
+  box-sizing: border-box;
+  padding: 1em;
+  margin-right: .5em;
+  background-color: white;
+  border: 2px solid black;
+
+  @include mq(narrow) {
+    flex: none;
+    margin-right: 0;
+    margin-bottom: 1em;
+  }
+  &:hover {
+  transform: scale(1.03);
+  }
+
+}
+.events-list-event:nth-last-of-type(1) {
+  margin-right: 0;
+  margin-left: .5em;
+  background-color: yellow;
+  border: none;
+  // color: white;
+  // .event-list-event--header {
+  //   border-bottom-color: white;
+  // }
+  @include mq(narrow) {
+    margin-left: 0;
+  }
+
+}
+.event--header {
+  margin: 1em 0 3em;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: .75em;
+  padding-bottom: .5em;
+  border-bottom: 1px solid black;
+  float: left;
+  min-width: 4em;
+}
+.event--title {
+  clear: left;
+  font-style: italic;
+}
+.event--artist {
+  display: block;
+  font-style: normal;
+  font-weight: 300;
+}
+.event--text {
+  font-family: "Sofia Pro", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 1em 0 0;
+  font-size: .65em;
+  word-spacing: -1px;
+}
+.eventdetail {
+  .event--title {
+    font-size: 2em;
+  }
+  .event--date {
+    font-size: 2em;
+  }
+  .event--artist {
+    margin: 1em 0;
+  }
+  .event--heroimage {
+    margin: 1em 0;
+  }
+}
+.event--heroimage-attr {
+  font-size: .65em;
+  color: #888;
+}

@@ -5,6 +5,10 @@
     <div class="wrap">
     {% include header.html %}
 
+      {% if page.title == "home" %}
+        {% include eventlist.html %}
+      {% endif %}
+      
     <section class="page-content">
         {{ content }}
     </section>

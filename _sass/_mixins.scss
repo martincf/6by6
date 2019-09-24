@@ -36,8 +36,12 @@
   }
 }
 @mixin trans-ease {
-  transition: all 0.2s ease
+  transition: all 0.2s ease;
 }
+@mixin transition() {
+	transition: all .2s ease-in-out;
+}
+
 // Media queries
 @mixin mq($point) {
 	@if $point==wide {

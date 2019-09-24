@@ -6,10 +6,8 @@
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
-        "mixins";
-
-
-
+        "mixins",
+        "events";
 
 // Site styles
 body {
@@ -25,16 +23,44 @@ body {
 }
 .site-title {
   max-width: 100px;
-  margin: 100px auto 100px;
+  margin: 100px 0 100px;
+  @include transition();
+
   @include mq(small) {
     max-width: 75px;
-    margin: 50px auto;
+    margin: 50px 0;
   }
-
+  &:hover {
+  transform: scale(1.01);
+  }
 }
 .site-footer {
   margin: 50px 0;
   padding-top: 50px;
+  text-align: center;
+
+}
+.site-footer-partners {
+  margin: 50px 0;
+  border-top: 2px solid black;
+  padding-top: 50px;
+  img {
+    // display: inline-block;
+    vertical-align: middle;
+    @include mq(narrow) {
+      margin: 20px auto;
+    }
+  }
+  .lightbox {
+    max-width: 80px;
+    margin-right: 50px;
+    @include mq(narrow) {
+      margin-right: 0;
+    }
+  }
+  .ropes {
+    max-width: 250px;
+  }
 }
 p {
   margin: 0 0 1em;
