@@ -83,4 +83,7 @@ strong {
 }
 .image-wrap {
   margin: 50px 0 1em;
+  @include mq(narrow) {
+    max-width: 40%;
+  }
 }
