@@ -69,9 +69,15 @@
 .eventdetail {
   .event--title {
     font-size: 2em;
+    @include mq(narrow) {
+      font-size: 1.5em;
+    }
   }
   .event--date {
     font-size: 2em;
+    @include mq(narrow) {
+      font-size: 1.5em;
+    }
   }
   .event--artist {
     margin: 1em 0;
