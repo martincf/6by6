@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Forever Elvis"
-date: 2019-12-07
+date: 2019-12-05
 artist: "Graeme Oxby"
 text: "An exhibition of Colin McPherson’s photography from his long-term project Berlin: After the Wall which documents the city’s changing landscape over the last three decades."
 heroimage: graemeoxby1.jpg
