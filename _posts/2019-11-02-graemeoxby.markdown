@@ -16,7 +16,7 @@ _It’s not a figure of speech._
 
 _It’s a real, honest to goodness, all out love._
 
-_They buy his records, watch his movies, his concerts, his every move.
+_They buy his records, watch his movies, his concerts, his every move._
 
 _People ink his face on their arms._
 
