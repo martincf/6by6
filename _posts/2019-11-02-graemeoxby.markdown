@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Forever Elvis"
+title: "The Kings of England"
 date: 2019-12-05
 artist: "Graeme Oxby"
 text: "An exhibition of Colin McPherson’s photography from his long-term project Berlin: After the Wall which documents the city’s changing landscape over the last three decades."
@@ -9,6 +9,8 @@ imageattr: Graeme Oxby
 permalink: /exhibition/forever-elvis
 tags: [next]
 ---
+
+## Forever Elvis – Graeme Oxby
 
 _There are people who love Elvis._
 
