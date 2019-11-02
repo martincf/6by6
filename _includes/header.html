@@ -1,3 +1,9 @@
 <header class="site-header">
-    <h1 class="site-title"><a href="{{ site.baseurl }}/"><img src="/assets/images/logo_6by6.svg" alt="{{ site.title }}" /></a></h1>
+  {% if page.title == "home" %}
+    <h1 class="site-title">
+  {% else %}
+    <h1 class="site-title-small">
+  {% endif %}
+      <a href="{{ site.baseurl }}/"><img src="/assets/images/logo_6by6.svg" alt="{{ site.title }}" /></a>
+    </h1>
 </header>

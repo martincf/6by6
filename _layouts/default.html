@@ -8,10 +8,15 @@
       {% if page.title == "home" %}
         {% include eventlist.html %}
       {% endif %}
-      
+
     <section class="page-content">
         {{ content }}
     </section>
+
+    {% if page.title == "home" %}
+      {% include eventlist-past.html %}
+    {% endif %}
+
     {% include footer.html %}
   </div>
   </body>

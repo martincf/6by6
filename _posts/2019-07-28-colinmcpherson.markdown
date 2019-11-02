@@ -7,10 +7,10 @@ text: "An exhibition of Colin McPherson’s photography from his long-term proje
 heroimage: berlin.jpg
 imageattr: Colin McPherson
 permalink: /exhibition/berlin-after-the-wall
-tags: [next]
+tags: [current]
 ---
 
-Six By Six is delighted to announce that they will be staging  their second event and exhibition.  
+__Six By Six is delighted to announce that they will be staging  their second event and exhibition.  __
 
 The evening will consist of the opening of an exhibition of  Colin McPherson’s photography from his long-term project Berlin: After the Wall which documents the city’s changing  landscape over the last three decades. There will be short talks and presentations on a number of subjects relevant to the work on show. 
 

@@ -1,0 +1,12 @@
+<section class="eventlist-past">
+  <h1>Previous exhibitions</h1>
+  <ul class="eventlist-past-events">
+    {% for post in site.posts %}
+    {% if post.tags contains 'past' %}
+    <li class="eventlist-past-events--event">
+      <a href="{{ post.url }}">{{ post.title }}</a> {{ post.date | date: "%B %Y" }} – <em>{{ post.artist }}</em>
+    </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</section>

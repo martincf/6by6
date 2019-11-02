@@ -34,6 +34,15 @@ body {
   transform: scale(1.01);
   }
 }
+.site-title-small {
+  max-width: 50px;
+  margin-bottom: 50px;
+  @include mq(small) {
+    max-width: 50px;
+    margin: 50px 0;
+  }
+
+}
 .site-footer {
   margin: 50px 0;
   padding-top: 50px;
@@ -81,9 +90,31 @@ strong {
     text-decoration: underline;
   }
 }
+.content {
+  h2 {
+    font-size: 150%;
+    margin: 1em 0 1em;
+  }
+  h3 {
+    margin: 0 0 .5em;
+  }
+}
+
 .image-wrap {
   margin: 50px 0 1em;
   @include mq(narrow) {
     max-width: 40%;
+  }
+}
+.eventlist-past {
+  margin: 50px 0;
+  border-top: 2px solid black;
+  padding-top: 50px;
+}
+.eventlist-past-events--event {
+  margin: 10px 0;
+  a:link, a:visited, a:hover, a:active {
+    text-decoration: underline;
+    display: block;
   }
 }

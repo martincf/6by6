@@ -7,10 +7,10 @@ text: "Six likeminded individuals are embarking on a mission to showcase small s
 heroimage: stephenmccoy.jpg
 imageattr: Stephen McCoy
 permalink: /exhibition/six-by-six-launch
-tags: [current]
+tags: [past]
 ---
 
-## From 19th September to 23rd October 2019
+## From 19th Sep to 23rd Oct 2019
 
 Six By Six's mission is to start conversations, spark debate and grow a network of people interested in photography. Our home is a venue that is not a traditional gallery; it's a place where we ill stimulate informal discussions and display work. Lightbox Gallery at Ropes & Twines has a history of supporting photography. Is relaxed atmosphere will provide the ideal space to debate notions of contemporary photography. 
 
