@@ -6,7 +6,7 @@ artist: "Graeme Oxby"
 text: "An exhibition of Colin McPherson’s photography from his long-term project Berlin: After the Wall which documents the city’s changing landscape over the last three decades."
 heroimage: graemeoxby1.jpg
 imageattr: Graeme Oxby
-permalink: /exhibition/forever-elvis
+permalink: /exhibition/the-kings-of-england
 tags: [next]
 ---
 
