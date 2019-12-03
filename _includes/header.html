@@ -1,9 +1,20 @@
 <header class="site-header">
   {% if page.title == "home" %}
     <h1 class="site-title">
+      <img src="/assets/images/logo_6by6.svg" alt="{{ site.title }}" />
+    </h1>
   {% else %}
     <h1 class="site-title-small">
-  {% endif %}
       <a href="{{ site.baseurl }}/"><img src="/assets/images/logo_6by6.svg" alt="{{ site.title }}" /></a>
     </h1>
+
+    {% if page.hasnav == true %}
+      <nav class="eventlist--nav">
+        <ul>
+          <li><a href="#exhibitiondetails">Exhibition details</a></li>
+          <li><a href="#agenda">Opening event agenda</a></li>
+        </ul>
+      </nav>
+      {% endif %}
+  {% endif %}
 </header>

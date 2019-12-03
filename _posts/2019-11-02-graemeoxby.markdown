@@ -8,9 +8,10 @@ heroimage: graemeoxby1.jpg
 imageattr: Graeme Oxby
 permalink: /exhibition/the-kings-of-england
 tags: [next]
+hasnav: true
 ---
 
-## Forever Elvis – Graeme Oxby
+## Forever Elvis – Graeme Oxby {#exhibitiondetails}
 
 _There are people who love Elvis._
 
@@ -70,3 +71,42 @@ Graeme’s work is held in the collection of the Michael Komechak O.S.B. Art Gal
 Graeme is represented worldwide by Institute Artists.
 
 [Graeme Oxby's website](http://graemeoxby.com)
+
+## Open evening agenda {#agenda}
+
+**Welcome to our 6x6 launch event for Graeme Oxby’s _The Kings of England_ exhibition here at the Lightbox Gallery at Ropes & Twines.**
+
+Graeme will introduce his work via short presentation to start the evening off.
+
+Thereafter there will be six short presentations by six Merseyside-based photographers in the following order:
+
+### Jane MacNeil
+#### The Streets of Liverpool
+Jane MacNeil is a photographer, born in Liverpool, she has been documenting her hometown for the past nine years.
+
+[www.janemacneil.co.uk](http://www.janemacneil.co.uk)
+
+### Cian Quayle
+#### Clochán
+Cian Quayle is an artist and writer, born in the Isle of Man in 1966. Since 2007 he has been Programme Leader in BA Photography at the University of Chester.
+
+### John Hendry
+#### 52/48
+John is based in Liverpool and is currently in the third year of his photography degree at Hugh Baird College. His work is predominantly documentary and socially engaged projects.
+
+### John Davies
+#### Retraced
+John Davies has been making documentary urban landscapes since the 1980s. His new work retraces a selection of these early landscapes to reveal the changes that have shaped our urban environment in recent times.
+
+[www.johndavies.uk.com](http://www.johndavies.uk.com)
+
+### Liam Jones
+Working full-time in a care home Liam works on self-initiated projects around his job and family life. He is driven by archiving our times his work focuses on the world immediately around him.
+
+Instagram: [https://www.instagram.com/liamjonesphotie/](@liamjonesphotie)
+
+### Emma Case
+#### Red
+Emma is a Photographer now based in Liverpool. Whether it’s a wedding, commissioned work or a socially engaged project Emma is fascinated by how we connect, particularly around relationships, culture and heritage.
+
+[www.emmacasephotography.com](http://www.emmacasephotography.com)

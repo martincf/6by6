@@ -10,6 +10,9 @@
         "events";
 
 // Site styles
+html {
+  scroll-behavior: smooth;
+}
 body {
   font-family: kepler-std, serif;
   margin: 50px 20%;
@@ -21,6 +24,14 @@ body {
   }
 
 }
+.site-header {
+  &:after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+}
+
 .site-title {
   max-width: 100px;
   margin: 100px 0 100px;
@@ -35,8 +46,10 @@ body {
   }
 }
 .site-title-small {
-  max-width: 50px;
   margin-bottom: 50px;
+  width: 50px;
+  // max-width: 50px;
+  float: left;
   @include mq(small) {
     max-width: 50px;
     margin: 50px 0;
@@ -96,7 +109,10 @@ strong {
     margin: 1em 0 1em;
   }
   h3 {
-    margin: 0 0 .5em;
+
+    font-size: 125%;
+    font-style: italic;
+    margin: 2em 0 .25em;
   }
 }
 
@@ -116,5 +132,31 @@ strong {
   a:link, a:visited, a:hover, a:active {
     text-decoration: underline;
     display: block;
+  }
+}
+.eventlist--nav {
+  position: fixed;
+  background-color: rgba(255,255,255,0.9);
+  border: 3px solid black;
+  padding: .5em;
+  right: 10%;
+  max-width: 11em;
+  margin: 1em 0 0;
+  li {
+    font-size: .75em;
+    // background-color: yellow;
+    padding: .2em .5em;
+    margin: 0 0 3px 0;
+    border-bottom: 1px solid black;
+    a {
+      color: black;
+      display: block;
+      @include transition();
+      &:hover {
+      transform: translateX(-5px);
+      }
+
+    }
+
   }
 }
