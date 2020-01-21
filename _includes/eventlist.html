@@ -4,7 +4,7 @@
       {% for post in site.posts %}
       {% if post.tags contains 'current' %}
       <a class="link" href="{{ post.url}}">
-        <h1 class="event--header">Last <br />
+        <h1 class="event--header">Current <br />
         Exhibition</h1>
           <h2 class="event--title">{{ post.title }}</h2>
           <h3 class="event--date">{{ post.date | date: "%-d %B %Y" }}</h3>
@@ -17,7 +17,7 @@
       {% for post in site.posts %}
       {% if post.tags contains 'next' %}
       <a class="link" href="{{ post.url}}">
-        <h1 class="event--header">Current <br />
+        <h1 class="event--header">Next <br />
         Exhibition</h1>
           <h2 class="event--title">{{ post.title }}</h2>
           <h3 class="event--date">{{ post.date | date: "%-d %B %Y" }}</h3>

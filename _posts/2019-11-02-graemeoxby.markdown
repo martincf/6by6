@@ -3,11 +3,11 @@ layout: post
 title: "The Kings of England"
 date: 2019-12-05
 artist: "Graeme Oxby"
-text: "An exhibition of Colin McPherson’s photography from his long-term project Berlin: After the Wall which documents the city’s changing landscape over the last three decades."
+text: ""
 heroimage: graemeoxby1.jpg
 imageattr: Graeme Oxby
 permalink: /exhibition/the-kings-of-england
-tags: [next]
+tags: [current]
 hasnav: true
 ---
 

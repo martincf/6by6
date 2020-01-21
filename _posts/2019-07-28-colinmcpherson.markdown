@@ -7,7 +7,7 @@ text: "An exhibition of Colin McPherson’s photography from his long-term proje
 heroimage: berlin.jpg
 imageattr: Colin McPherson
 permalink: /exhibition/berlin-after-the-wall
-tags: [current]
+tags: [past]
 ---
 
 __Six By Six is delighted to announce that they will be staging  their second event and exhibition.  __
