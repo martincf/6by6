@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "To Build a Home"
+title: "To Build A Home"
 date: 2020-01-30
 artist: "Amanda Jackson"
 text: ""
@@ -13,11 +13,11 @@ hasnav: true
 
 ## To Build a Home {#exhibitiondetails}
 
-The series _To Build a Home_ – a study of the people of Lammas Tir Y Gafel Eco Village and the surrounding community focuses on the North Pembrokeshire settlement near Glandwr.
+The series _To Build A Home_ – a study of the people of Lammas Tir Y Gafel Eco Village and the surrounding community focuses on the North Pembrokeshire settlement near Glandwr.
 
 My approach to photography is to get to know my subjects well, allowing me to create intimate portraits of the people within their surroundings. During my first photography shoot with Lammas in 2010 I fell in love with the area, the people and the way of life. So much so that in early 2011, I relocated to live beside the village and I now have my own land nearby. In 2013 I received a grant from the Arts Council of Wales to produce this series, which is all shot on medium format colour film.
 
-The series not only looks at the 9 plots and the people that make up Lammas but also looks at the people surrounding the eco village as they very much part of the community. While some already lived in the area before the eco village came about in 2009, others moved there and bought their own land after volunteering at the eco village. Also key to the community are the volunteers that come to help on people’s plots, sometimes short term, often they embrace the way of life and stay for a few months or indefinitely.
+The series not only looks at the 9 plots and the people that make up Lammas but also looks at the people surrounding the eco village as they are very much part of the community. While some already lived in the area before the eco village came about in 2009, others moved there and bought their own land after volunteering at the eco village. Also key to the community are the volunteers that come to help on people’s plots, sometimes short term, often they embrace the way of life and stay for a few months or indefinitely.
 
 As well as capturing the day to day activities, I aim to show a mix of community life through the people that live there. Some of the photographs will not only meet expectations of what living in an Eco Village would be like, but feel familiar; others will surprise. In photographs such as _YouTube Friday_ we see how the people are embracing modern day technology but in a sustainable way, using hydroelectricity.
 
