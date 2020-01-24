@@ -11,7 +11,7 @@ tags: [next]
 hasnav: true
 ---
 
-## To Build a Home {#exhibitiondetails}
+## To Build A Home {#exhibitiondetails}
 
 The series _To Build A Home_ – a study of the people of Lammas Tir Y Gafel Eco Village and the surrounding community focuses on the North Pembrokeshire settlement near Glandwr.
 
